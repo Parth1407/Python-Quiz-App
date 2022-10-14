@@ -19,7 +19,7 @@ There are a total of 5 questions asked to the user which are chosen randomly fro
 
 3. Change the 'user' and 'passwd' details as per your computer
 
-4. Run the file named 'table_creation.py' to create the required mysql table.
+4. Run the file named 'table_creation.py' to create the required mysql table. If it runs successfully, move to step 5.
 
 5. Run 'main.py'.
 
